@@ -1,4 +1,4 @@
-resource "aws_vpc" "main" {
+resource "aws_vpc" "dasa" {
   cidr_block =  var.VPC_CIDR
 
     tags = {
