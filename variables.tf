@@ -1,4 +1,4 @@
 variable "ENV" {}
 variable "VPC_CIDR" {}
-variable "public_subnet_cidr" {}
-variable "private_subnet_cidr" {} 
+variable "PUBLIC_SUBNET_CIDR" {}
+variable "PRIVATE_SUBNET_CIDR" {} 
